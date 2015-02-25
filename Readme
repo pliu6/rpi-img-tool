@@ -5,6 +5,7 @@ How to use mkimage.sh?
 2. Run the script with root to generate buildroot_rpi_xxx.img
 3. Use dd command to create new SD card
 #dd if=buildroot_rpi_xxx.img of=/dev/sdX bs=4M
+!!!Make sure you are using the correct device name of your SD card
 
 How to use mkcard.sh?
 1. Just run the script to partition the SD card and format the partitions.
