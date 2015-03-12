@@ -11,3 +11,5 @@ How to use mkcard.sh?
 1. Just run the script to partition the SD card and format the partitions.
 
 The SD card will have 2 partitions mount to /boot and /root
+In case of issue, refer the solution in
+http://kevintechnology.com/post/29649230627/formatting-an-sd-card-for-the-beagleboard-xm-bone
